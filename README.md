@@ -1,1 +1,1 @@
-productcatalog.html
+Catalog.github.io
